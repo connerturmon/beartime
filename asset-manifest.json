@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/beartime/static/css/main.3ec0627c.chunk.css",
+    "main.js": "/beartime/static/js/main.aca207a6.chunk.js",
+    "main.js.map": "/beartime/static/js/main.aca207a6.chunk.js.map",
+    "runtime-main.js": "/beartime/static/js/runtime-main.71a8ea94.js",
+    "runtime-main.js.map": "/beartime/static/js/runtime-main.71a8ea94.js.map",
+    "static/js/2.92b2c41c.chunk.js": "/beartime/static/js/2.92b2c41c.chunk.js",
+    "static/js/2.92b2c41c.chunk.js.map": "/beartime/static/js/2.92b2c41c.chunk.js.map",
+    "static/js/3.11e6d004.chunk.js": "/beartime/static/js/3.11e6d004.chunk.js",
+    "static/js/3.11e6d004.chunk.js.map": "/beartime/static/js/3.11e6d004.chunk.js.map",
+    "index.html": "/beartime/index.html",
+    "static/css/main.3ec0627c.chunk.css.map": "/beartime/static/css/main.3ec0627c.chunk.css.map",
+    "static/js/2.92b2c41c.chunk.js.LICENSE.txt": "/beartime/static/js/2.92b2c41c.chunk.js.LICENSE.txt",
+    "static/media/audio01.1f5a40b9.wav": "/beartime/static/media/audio01.1f5a40b9.wav",
+    "static/media/audio02.02689790.wav": "/beartime/static/media/audio02.02689790.wav",
+    "static/media/audio03.190138b2.wav": "/beartime/static/media/audio03.190138b2.wav",
+    "static/media/audio04.66c52d9f.wav": "/beartime/static/media/audio04.66c52d9f.wav",
+    "static/media/kuma.328b820c.png": "/beartime/static/media/kuma.328b820c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a8ea94.js",
+    "static/js/2.92b2c41c.chunk.js",
+    "static/css/main.3ec0627c.chunk.css",
+    "static/js/main.aca207a6.chunk.js"
+  ]
+}
